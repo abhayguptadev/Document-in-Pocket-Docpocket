@@ -1,6 +1,6 @@
 # 📂 Document in Pocket (DocPocket)
 
-**Document in Pocket (DocPocket)** is a modern Flutter-based application that helps users store, manage, and access their important documents anytime, anywhere.
+**Document in Pocket (DocPocket)** is a modern Flutter-based application that helps users store, manage, and access their important documents anytime.
 
 Designed with simplicity and performance in mind, DocPocket acts like your **personal digital document vault**, making file organization effortless and efficient.
 
